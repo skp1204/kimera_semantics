@@ -1,0 +1,4 @@
+global_frame_id: map
+odom_frame_id: base_link
+delta_x: 5
+delta_y: 5
