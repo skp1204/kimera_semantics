@@ -1,0 +1,8 @@
+/build
+/devel
+/logs
+/src/Kimera-Semantics/kimera_semantics_ros/mesh_results
+./catkin_tools
+
+
+
